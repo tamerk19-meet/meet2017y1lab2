@@ -1,6 +1,6 @@
-import.turtle
+import turtle
 
-turtle.penup()​ ​ 
+turtle.penup() ​ 
 turtle.goto(0,0)​ ​ 
 turtle.pendown()​ ​
 
